@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**multicatch/multicatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A sofware developer mainly interested in web application, security and testing. Most of my experience involves Kotlin and Java (server-side), but I can also use [C](https://github.com/multicatch/FLAME-interpreter), Rust or [C#](https://github.com/multicatch/ProjectManager) if there is a need to. 
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Good knowledge of network protocols (HTTP included) and [ability to implement a server directly on sockets](https://github.com/multicatch/ksockserver).
+* [Theat modeling](https://github.com/multicatch/cucumber-audit/blob/master/doc/SampleThreadModel.md) and good grasp of application security overall.
+* Good grasp of testing, automated testing, TDD and BDD ([Cucumber included](https://github.com/multicatch/cucumber-audit)).
+* Ability to design the architecture of an app and document it using UML and scenarios ([see this project - in Polish](https://github.com/multicatch/zoo)).
+* A set of DevOps skills, including deployment automation, CI configuration, Docker, Linux, machine management etc.
+
+Check out my projects or contact me for more info.
