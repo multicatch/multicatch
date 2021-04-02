@@ -2,6 +2,15 @@
 
 A sofware developer mainly interested in web application, security and testing. Most of my experience involves Kotlin and Java (server-side), but I am also familiar with [C](https://github.com/multicatch/FLAME-interpreter), [Rust](https://github.com/multicatch/rubble-rs) or [C#](https://github.com/multicatch/ProjectManager).
 
+### Language Experience
+
+* Java SE & JEE Development (4 years of academic and work experience)
+* Kotlin Server-side Development (2 years)
+
+### Certifications
+
+* Oracle Certified Professional: Java 11 SE Developer (1Z0-819-J) (2021)
+
 ### Skills
 
 * Good knowledge of network protocols (HTTP included) so that I can implement [implement own HTTP/1.1 server directly on sockets](https://github.com/multicatch/ksockserver).
