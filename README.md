@@ -4,7 +4,7 @@ A sofware developer mainly interested in web application, security and testing. 
 
 ### Language Experience
 
-* Java SE & JEE Development (4 years of academic and work experience)
+* Java SE & JEE Development (3 years of work experience, in total 6 years of work & learning experience)
 * Kotlin Server-side Development (2 years)
 
 ### Certifications
