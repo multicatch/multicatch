@@ -24,6 +24,8 @@ Check out my projects or contact me for more info.
 
 ## Some projects of mine
 
+*Note: In some of the older project my name can be set as SudoWaster - this is my old GitHub's name.*
+
 ### Java/JEE
 
 * [NuciferaChat](https://github.com/multicatch/Nucifera-Chat) - my attempt at making my custom chat server in JEE with my custom encryption, tested to be working on Glassfish.
