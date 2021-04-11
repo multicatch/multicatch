@@ -1,4 +1,4 @@
-### About me
+## About me
 
 A sofware developer mainly interested in web application, security and testing. Most of my experience involves Kotlin and Java (server-side), but I am also familiar with [C](https://github.com/multicatch/FLAME-interpreter), [Rust](https://github.com/multicatch/rubble-rs) or [C#](https://github.com/multicatch/ProjectManager).
 
@@ -21,3 +21,33 @@ A sofware developer mainly interested in web application, security and testing. 
 * A good grasp of [ontology design](https://github.com/multicatch/FuddiOntology) and [Apache Jena](https://github.com/multicatch/FuddiWikiGenerator).
 
 Check out my projects or contact me for more info.
+
+## Some projects of mine
+
+### Java/JEE
+
+* [NuciferaChat](https://github.com/multicatch/Nucifera-Chat) - my attempt at making my custom chat server in JEE with my custom encryption, tested to be working on Glassfish.
+* [MockGiven](https://github.com/multicatch/MockGiven) - my testing tool to make mocking and testing with BDD quicker (with scenarios defined in code, not in external files like in Cucumber).
+* [zoo](https://github.com/multicatch/zoo) - a project I made for my software engineering classes that presents a sample use of UML.
+
+### Kotlin
+
+* [cucumber-audit](https://github.com/multicatch/cucumber-audit) - a pentesting tool that uses Selenium and Cucumber; it can be used to create scenarios based on a threat model that will be automatically validated and used to generate reports of exsiting threats (sample usage included in repo).
+* [ksockserver](https://github.com/multicatch/ksockserver) - a framework for creating custom web servers in Kotlin, with an example HTTP/1.1 server.
+* [FuddiWikiGenerator](https://github.com/multicatch/FuddiWikiGenerator) - a tool to generate wiki pages from an ontology using a given template file.
+* [Papajbot-messenger](https://github.com/multicatch/Papajbot-messenger) - a custom Messenger API client that can be used as a framework for building chatbots in Kotlin (tested to be working).
+
+### Rust 
+
+* [rubble-rs](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to replace patterns in text with custom extendable syntax (using custom language in templates that will be evaluated using an interpreted).
+
+### C#
+
+* [ProjectManager](https://github.com/multicatch/ProjectManager) - a simple app for project management with React front-end.
+
+### JavaScript
+
+* [Erebor](https://github.com/multicatch/Erebor) - a custom responsive client of UMCS Moria timetable written in React ([live here](https://erebor.vpcloud.eu/)).
+* [Syjonizer](https://github.com/multicatch/Syjonizer) - a plugin for Firefox and Chrome to make UMCS Moria timetable more easy to use (currently discontinued in favor of a [Erebor](https://github.com/multicatch/Erebor)).
+* [ProjectManager](https://github.com/multicatch/ProjectManager) - the front-end for this project management tool is written in React.
+
