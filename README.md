@@ -34,14 +34,14 @@ Check out my projects or contact me for more info.
 
 ### Kotlin
 
-* [cucumber-audit](https://github.com/multicatch/cucumber-audit) - a pentesting tool that uses Selenium and Cucumber; it can be used to create scenarios based on a threat model that will be automatically validated and used to generate reports of exsiting threats (sample usage included in repo).
+* [cucumber-audit](https://github.com/multicatch/cucumber-audit) - a pentesting tool that uses Selenium and Cucumber; it can be used to create scenarios based on a threat model that will be automatically validated and used to generate reports of exsiting threats (sample usage included in repo). Published at [OSSRH](https://oss.sonatype.org/#nexus-search;gav~io.github.multicatch~cucumber-audit*~~~) and available from [Maven Repositories](https://mvnrepository.com/artifact/io.github.multicatch).
 * [ksockserver](https://github.com/multicatch/ksockserver) - a framework for creating custom web servers in Kotlin, with an example HTTP/1.1 server.
 * [FuddiWikiGenerator](https://github.com/multicatch/FuddiWikiGenerator) - a tool to generate wiki pages from an ontology using a given template file.
 * [Papajbot-messenger](https://github.com/multicatch/Papajbot-messenger) - a custom Messenger API client that can be used as a framework for building chatbots in Kotlin (tested to be working).
 
 ### Rust 
 
-* [rubble-rs](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to replace patterns in text with custom extendable syntax (using custom language in templates that will be evaluated using an interpreted).
+* [rubble-templates](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to replace patterns in text with custom extendable syntax (using custom language in templates that will be evaluated using an interpreted). Published at [crates.io](https://crates.io/crates/rubble-templates).
 
 ### C#
 
