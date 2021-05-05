@@ -9,7 +9,8 @@ A sofware developer mainly interested in web application, security and testing. 
 
 ### Certifications
 
-* Oracle Certified Professional: Java 11 SE Developer (1Z0-819-J) (2021)
+* [![Oracle Certified Professional badge](oracle-certified-professional-java-se-11-developer.png)](https://www.credly.com/badges/b3aded34-b15a-44c7-9125-3f7600eca6a4/public_url) \
+[Oracle Certified Professional: Java 11 SE Developer (1Z0-819-J) (2021)](https://www.credly.com/badges/b3aded34-b15a-44c7-9125-3f7600eca6a4/public_url)
 
 ### Skills
 
