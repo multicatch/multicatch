@@ -31,6 +31,7 @@ Check out my projects or contact me for more info.
 
 * [NuciferaChat](https://github.com/multicatch/Nucifera-Chat) - my attempt at making my custom chat server in JEE with my custom encryption, tested to be working on Glassfish.
 * [MockGiven](https://github.com/multicatch/MockGiven) - my testing tool to make mocking and testing with BDD quicker (with scenarios defined in code, not in external files like in Cucumber).
+* [java-logger-benchmark](https://github.com/multicatch/java-logger-benchmark) - a benchmark of a few most popular logging libraries in Java, with a complete report.
 * [zoo](https://github.com/multicatch/zoo) - a project I made for my software engineering classes that presents a sample use of UML.
 
 ### Kotlin
