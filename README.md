@@ -1,11 +1,12 @@
 ## About me
 
-A sofware developer mainly interested in web application, security and testing. Most of my experience involves Kotlin and Java (server-side), but I am also familiar with [C](https://github.com/multicatch/FLAME-interpreter), [Rust](https://github.com/multicatch/rubble-rs) or [C#](https://github.com/multicatch/ProjectManager).
+A sofware developer mainly interested in web application, security and testing. Most of my experience involves Kotlin and Java (server-side), but I am also familiar with Rust and [C](https://github.com/multicatch/FLAME-interpreter).
 
-### Language Experience
+### Language Experience (as of 2022)
 
-* Java SE & JEE Development (3 years of work experience, in total 6 years of work & learning experience)
-* Kotlin Server-side Development (2 years)
+* Java SE & JEE Development (4 years of work experience, in total 6 years of work & learning experience)
+* Kotlin Server-side Development (3 years of work experience)
+* Rust (1 year)
 
 ### Certifications
 
@@ -43,7 +44,8 @@ Check out my projects or contact me for more info.
 
 ### Rust 
 
-* [rubble-templates](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to replace patterns in text with custom extendable syntax (using custom language in templates that will be evaluated using an interpreted). Published at [crates.io](https://crates.io/crates/rubble-templates).
+* [rubble-templates](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to interpolate text with custom extendable syntax. Published at [crates.io](https://crates.io/crates/rubble-templates).
+* [axxd](https://github.com/multicatch/axxd) - an axx file decryption tool. This tool can decrypt AxCrypt-encrypted files.
 
 ### C#
 
