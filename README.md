@@ -6,7 +6,7 @@ As for my DevOps skills - my newest repositories usually have a configured GitHu
 
 ### Language Experience (as of 2023)
 
-* Java SE & JEE Development (5 years of work experience, in total 7 years of work & learning experience)
+* Java SE & JEE Development (5 years of work experience, in total 7 years of full-time & freelance experience)
 * Kotlin Server-side Development (4 years of work experience)
 * Rust (2 years)
 
