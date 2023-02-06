@@ -30,13 +30,6 @@ Check out my projects or contact me for more info.
 
 *Note: In some of the older project my name can be set as SudoWaster - this is my old GitHub's name.*
 
-### Java/JEE
-
-* [java-logger-benchmark](https://github.com/multicatch/java-logger-benchmark) - a benchmark of a few most popular logging libraries in Java, with a complete report.
-* [NuciferaChat](https://github.com/multicatch/Nucifera-Chat) - my attempt at making my custom chat server in JEE with my custom encryption, tested to be working on Glassfish.
-* [MockGiven](https://github.com/multicatch/MockGiven) - my testing tool to make mocking and testing with BDD quicker (with scenarios defined in code, not in external files like in Cucumber).
-* [zoo](https://github.com/multicatch/zoo) - a project I made for my software engineering classes that presents a sample use of UML.
-
 ### Kotlin
 
 * [cucumber-audit](https://github.com/multicatch/cucumber-audit) - a pentesting tool that uses Selenium and Cucumber; it can be used to create scenarios based on a threat model that will be automatically validated and used to generate reports of exsiting threats (sample usage included in repo). Published at [OSSRH](https://oss.sonatype.org/#nexus-search;gav~io.github.multicatch~cucumber-audit*~~~) and available from [Maven Repositories](https://mvnrepository.com/artifact/io.github.multicatch).
@@ -47,8 +40,16 @@ Check out my projects or contact me for more info.
 ### Rust 
 
 * [kafka-json-processor](https://github.com/multicatch/kafka-json-processor) - A processor that reads JSONs from Kafka topics, processes them and puts them in other selected Kafka topic. 
+* [appium-client](https://github.com/multicatch/kafka-json-processor) - Rust client for Appium, for automated mobile app testing. 
 * [rubble-templates](https://github.com/multicatch/rubble-rs) - a templating engine in Rust indended to be used to interpolate text with custom extendable syntax. Published at [crates.io](https://crates.io/crates/rubble-templates).
 * [axxd](https://github.com/multicatch/axxd) - an axx file decryption tool. This tool can decrypt AxCrypt-encrypted files.
+
+### Java/JEE
+
+* [java-logger-benchmark](https://github.com/multicatch/java-logger-benchmark) - a benchmark of a few most popular logging libraries in Java, with a complete report.
+* [NuciferaChat](https://github.com/multicatch/Nucifera-Chat) - my attempt at making my custom chat server in JEE with my custom encryption, tested to be working on Glassfish.
+* [MockGiven](https://github.com/multicatch/MockGiven) - my testing tool to make mocking and testing with BDD quicker (with scenarios defined in code, not in external files like in Cucumber).
+* [zoo](https://github.com/multicatch/zoo) - a project I made for my software engineering classes that presents a sample use of UML.
 
 ### C#
 
