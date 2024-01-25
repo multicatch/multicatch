@@ -4,7 +4,7 @@ A sofware developer mainly interested in web application, security and testing. 
 
 As for my DevOps skills - my newest repositories usually have a configured GitHub Actions pipeline, but I can also write a pipeline in Groovy for Jenkins.
 
-### Language Experience (as of 2023)
+### Language Experience (as of 2024)
 
 * Java SE & JEE Development (6 years of work experience, in total 8 years of full-time & freelance experience)
 * Kotlin Server-side Development (5 years of work experience)
